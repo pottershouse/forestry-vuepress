@@ -41,3 +41,5 @@ Well, not much to do here really, this theme is pre-configured and works out of 
 That's it, that's all. Enjoy your new site!
 
 Awesome we can add new content now
+
+Kory is kool
