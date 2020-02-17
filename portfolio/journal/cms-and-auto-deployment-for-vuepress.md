@@ -39,3 +39,5 @@ Now, push it up to your remote git repository.
 Well, not much to do here really, this theme is pre-configured and works out of the box with Forestry. Create an account at [Forestry](https://forestry.io "Forestry") and import your repository.
 
 That's it, that's all. Enjoy your new site!
+
+Awesome we can add new content now
